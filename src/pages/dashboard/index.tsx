@@ -20,7 +20,7 @@ interface DashboardProps {
   }
 }
 
-interface TasksProps {
+export interface TasksProps {
   id: string,
   created: Date,
   public: boolean,

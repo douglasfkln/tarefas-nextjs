@@ -1,5 +1,6 @@
 export const CONSTANTS = {
   DB: {
-    tasks: "tasks"
+    tasks: "tasks",
+    comments: "comments"
   }
 }
